@@ -3,13 +3,14 @@
 
     <div class="swiffy-slider slider-indicators-round">
         <ul class="slider-container">
-            <li>
-                <img class="lg:h-[600px] md:h-[500px] sm:h-[300px] h-[200px] w-full object-cover "
-                     src="{{asset('assets/images/gallery/17.jpg')}}">
-            </li>
+
             <li>
                 <img class="lg:h-[600px] md:h-[500px] sm:h-[300px] h-[200px] w-full object-cover "
                      src="{{asset('assets/images/gallery/18.jpg')}}">
+            </li>
+            <li>
+                <img class="lg:h-[600px] md:h-[500px] sm:h-[300px] h-[200px] w-full object-cover "
+                     src="{{asset('assets/images/gallery/17.jpg')}}">
             </li>
             <li>
                 <img class="lg:h-[600px] md:h-[500px] sm:h-[300px] h-[200px] w-full object-cover "
