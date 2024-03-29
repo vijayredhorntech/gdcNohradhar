@@ -1,6 +1,6 @@
 @extends('Layouts.layout')
 @section('content')
-    <img class=" h-[200px] w-full object-cover " src="{{asset('assets/images/gallery/16.JPG')}}">
+    <img class=" h-[200px] w-full object-cover " src="{{asset('assets/images/gallery/16.jpg')}}">
 
 
     <div class="w-full flex flex-col items-center p-4  relative">
