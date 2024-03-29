@@ -5,6 +5,10 @@
         <ul class="slider-container">
             <li>
                 <img class="lg:h-[600px] md:h-[500px] sm:h-[300px] h-[200px] w-full object-cover "
+                     src="{{asset('assets/images/gallery/17.jpg')}}">
+            </li>
+            <li>
+                <img class="lg:h-[600px] md:h-[500px] sm:h-[300px] h-[200px] w-full object-cover "
                      src="{{asset('assets/images/gallery/18.jpg')}}">
             </li>
             <li>
@@ -13,11 +17,7 @@
             </li>
             <li>
                 <img class="lg:h-[600px] md:h-[500px] sm:h-[300px] h-[200px] w-full object-cover "
-                     src="{{asset('assets/images/gallery/12.JPG')}}">
-            </li>
-            <li>
-                <img class="lg:h-[600px] md:h-[500px] sm:h-[300px] h-[200px] w-full object-cover "
-                     src="{{asset('assets/images/gallery/17.jpg')}}">
+                     src="{{asset('assets/images/gallery/12.jpg')}}">
             </li>
         </ul>
 
@@ -320,7 +320,7 @@ of behavior and knowledge. </span>
             <li>
                 <div class="w-full h-48 bg-lightTheme mt-4 p-3 rounded-md relative">
                     <a href="{{route('gallery')}}">
-                        <img src="{{asset('assets/images/gallery/1.JPG')}}" class="w-full h-full object-cover rounded-md"
+                        <img src="{{asset('assets/images/gallery/1.jpg')}}" class="w-full h-full object-cover rounded-md"
                              alt="">
                     </a>
                 </div>
@@ -328,7 +328,7 @@ of behavior and knowledge. </span>
             <li>
                 <div class="w-full h-48 bg-lightTheme mt-4 p-3 rounded-md relative">
                     <a href="{{route('gallery')}}">
-                        <img src="{{asset('assets/images/gallery/7.JPG')}}" class="w-full h-full object-cover rounded-md"
+                        <img src="{{asset('assets/images/gallery/7.jpg')}}" class="w-full h-full object-cover rounded-md"
                              alt="">
                     </a>
                 </div>
@@ -336,7 +336,7 @@ of behavior and knowledge. </span>
             <li>
                 <div class="w-full h-48 bg-lightTheme mt-4 p-3 rounded-md relative">
                     <a href="{{route('gallery')}}">
-                        <img src="{{asset('assets/images/gallery/14.JPG')}}" class="w-full h-full object-cover rounded-md"
+                        <img src="{{asset('assets/images/gallery/14.jpg')}}" class="w-full h-full object-cover rounded-md"
                              alt="">
                     </a>
                 </div>
@@ -344,7 +344,7 @@ of behavior and knowledge. </span>
             <li>
                 <div class="w-full h-48 bg-lightTheme mt-4 p-3 rounded-md relative">
                     <a href="{{route('gallery')}}">
-                        <img src="{{asset('assets/images/gallery/16.JPG')}}" class="w-full h-full object-cover rounded-md"
+                        <img src="{{asset('assets/images/gallery/16.jpg')}}" class="w-full h-full object-cover rounded-md"
                              alt="">
                     </a>
                 </div>

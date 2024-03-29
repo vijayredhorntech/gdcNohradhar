@@ -17,7 +17,6 @@
                     <a class="uk-button uk-button-default w-full h-40 bg-lightTheme rounded-md p-1 group" href="{{$image}}" data-caption="GDC Nohradhar">
                         <img class="w-full h-full rounded-md group-hover:scale-105 transition ease-in duration-2000" src="{{$image}}" alt="">
                     </a>
-
                 @endforeach
 
 
