@@ -14,7 +14,7 @@
             <div class="w-full p-4">
 
                 <div class="w-full p-4">
-                    <img src="{{asset('assets/images/c1.jpeg')}}" class="rounded-md" alt="">
+                    <img src="{{asset('assets/images/c1.png  ')}}" class="rounded-md" alt="">
                 </div>
 
                 <p class=" mt-8 text-darkText italic text-md"><strong>Govt. Degree College NOHRADHAR</strong> came into existence in the year 2022 and since then
