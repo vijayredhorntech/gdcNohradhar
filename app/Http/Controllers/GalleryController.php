@@ -10,7 +10,6 @@ class GalleryController extends Controller
         $title = 'Gallery';
         $images = [
             asset('assets/images/gallery/1.JPG'),
-            asset('assets/images/gallery/2.JPG'),
             asset('assets/images/gallery/4.jpeg'),
             asset('assets/images/gallery/5.JPG'),
             asset('assets/images/gallery/6.JPG'),
