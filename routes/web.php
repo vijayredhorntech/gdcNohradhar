@@ -25,13 +25,9 @@ Route::get('/gallery', [GalleryController::class, 'index'])->name('gallery');
 Route::get('/faculty/{type}', [PageController::class, 'faculty'])->name('faculty');
 Route::get('/committee/{type}', [PageController::class, 'committee'])->name('committee');
 
-
-Route::get('/college-aqar-data', function () {
-    return view('collegeAqarData');
-})->name('college-aqar-data');
-Route::get('/college-ssr', function () {
-    return view('collegeSsr');
-})->name('college-ssr');
+Route::get('/contact', function () {
+    return view('contact');
+})->name('contact');
 
 
 

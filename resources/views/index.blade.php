@@ -360,7 +360,7 @@ of behavior and knowledge. </span>
             <li>
                 <div class="w-full h-48 bg-lightTheme mt-4 p-3 rounded-md relative">
                     <a href="{{route('gallery')}}">
-                        <img src="{{asset('assets/images/gallery/4.jpeg')}}" class="w-full h-full object-cover rounded-md"
+                        <img src="{{asset('assets/images/gallery/4.jpg')}}" class="w-full h-full object-cover rounded-md"
                              alt="">
                     </a>
                 </div>

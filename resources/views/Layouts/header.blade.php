@@ -145,6 +145,11 @@
                     Gallery
                 </li>
             </a>
+            <a href="{{route('contact')}}">
+                <li class="py-2.5 hover:bg-lightTheme hover:text-darkTheme px-4 transition ease-in duration-2000">
+                    Contact
+                </li>
+            </a>
 
 
 
